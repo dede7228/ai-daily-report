@@ -1,0 +1,18 @@
+baseURL = 'https://your-username.github.io/ai-daily-report'
+languageCode = 'zh-CN'
+title = 'AI Daily Report'
+theme = 'hyde'
+
+[params]
+  author = 'AI Daily Report'
+  description = 'AI + 金融股票每日自动日报'
+  
+[menu]
+  [[menu.main]]
+    name = '首页'
+    url = '/'
+    weight = 10
+  [[menu.main]]
+    name = '归档'
+    url = '/posts/'
+    weight = 20

@@ -1,0 +1,7 @@
+feedparser
+requests
+yfinance
+python-dateutil
+pytz
+markdown
+jinja2
