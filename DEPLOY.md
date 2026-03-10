@@ -13,8 +13,8 @@
 # 在本地项目目录执行
 cd /root/.openclaw/workspace/ai-daily-report
 
-# 添加远程仓库（替换 YOUR_USERNAME 为你的 GitHub 用户名）
-git remote add origin https://github.com/YOUR_USERNAME/ai-daily-report.git
+# 添加远程仓库
+git remote add origin https://github.com/dede7228/ai-daily-report.git
 
 # 推送代码
 git branch -M main
@@ -29,7 +29,7 @@ git push -u origin main
 
 ## 第四步：验证部署
 
-- 访问 `https://YOUR_USERNAME.github.io/ai-daily-report/`
+- 访问 `https://dede7228.github.io/ai-daily-report/`
 - 每天早8点会自动更新
 - 也可以手动触发：Actions → Daily Report Generator → Run workflow
 

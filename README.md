@@ -12,7 +12,7 @@ AI + 金融股票（美股/港股）每日自动日报
 
 ## 访问地址
 
-https://[your-github-username].github.io/ai-daily-report/
+https://dede7228.github.io/ai-daily-report/
 
 ## 技术栈
 
